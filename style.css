@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'chunkfiveroman';
+    src: url('FONT/chunkfive-webfont.woff2') format('woff2'),
+         url('FONT/chunkfive-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+h1
+{
+	font-family: chunkfiveroman, arial, sans-serif;
+	background-color: RGB(240, 219, 103);}
+body
+{
+	font-family: Comic sans MS, arial, sans-serif;
+}
